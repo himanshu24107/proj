@@ -1,2 +1,2 @@
-upi_id = "himanshudubey2401@ybl"
+upi_id = "upi@id"
 name = 'WHOLESALE BILLING SYSTEM :)'
